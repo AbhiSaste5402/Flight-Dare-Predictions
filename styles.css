@@ -1,0 +1,27 @@
+body {
+    background-color: #07002d;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #aab9f6;
+}
+
+a {
+    color: #010808;
+}
+
+a:hover {
+    color: #440000;
+  }
+
+h3{
+    color: #ffffff;
+
+  }
+
+.card-title {
+    margin-bottom: 0.75rem;
+    color: #10103d;
+}
+
